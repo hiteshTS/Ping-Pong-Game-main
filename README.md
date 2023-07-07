@@ -1,8 +1,5 @@
-
 # Ping-Pong-Game-JS
-<img src="https://hiteshts.github.io/Ping-Pong-Game-main/">
-
-(https://shikha072000.github.io/Ping-Pong-Game/)
+()
 > This is a very basic version of a popular game "Ping Pong". Created using javascript and playable on laptops and desktops.
 # Instructions
 1. press enter on each prompt and to start the game.
